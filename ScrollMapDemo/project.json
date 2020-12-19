@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ScrollMapDemo",
+  "id": "92e589f3-de7f-41fd-9276-edef56f2b76f",
+  "version": "2.4.3",
+  "isNew": false
+}
