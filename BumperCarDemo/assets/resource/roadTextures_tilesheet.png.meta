@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a6274850-9eb0-4500-a687-2e81df788e22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "roadTextures_tilesheet": {
+      "ver": "1.0.4",
+      "uuid": "e17df5af-4c65-426b-a40e-9881c4bdbfc6",
+      "rawTextureUuid": "a6274850-9eb0-4500-a687-2e81df788e22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 768,
+      "height": 512,
+      "rawWidth": 768,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

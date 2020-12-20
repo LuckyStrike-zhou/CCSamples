@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="roadTextures_tilesheet.tsx"/>
+ <layer name="groud" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTZGBgkBzFo3gUj+JRPIpJxABthicR
+  </data>
+ </layer>
+ <layer name="wall" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTYmBgkKIyphagp3nk+A8bH5/dpLqPFPOwqR2K5uFKR+SYR4r+gTAPX1gOdvOw6SXFPHIAPcyjpKwbKuUfNTEAb00N0Q==
+  </data>
+ </layer>
+</map>
